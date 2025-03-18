@@ -1,3 +1,0 @@
-﻿  BasicVector.cpp
-C:\oop\lab2\BasicVector\BasicVector.cpp(48,18): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
-  BasicVector.vcxproj -> C:\oop\lab2\BasicVector\x64\Debug\BasicVector.exe
